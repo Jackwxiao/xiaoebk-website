@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/xiaoebk-website/static/css/main.ee79fb0a.chunk.css",
+    "main.js": "/xiaoebk-website/static/js/main.3c33c2b6.chunk.js",
+    "main.js.map": "/xiaoebk-website/static/js/main.3c33c2b6.chunk.js.map",
+    "runtime-main.js": "/xiaoebk-website/static/js/runtime-main.b44a4b68.js",
+    "runtime-main.js.map": "/xiaoebk-website/static/js/runtime-main.b44a4b68.js.map",
+    "static/js/2.2c16c6ac.chunk.js": "/xiaoebk-website/static/js/2.2c16c6ac.chunk.js",
+    "static/js/2.2c16c6ac.chunk.js.map": "/xiaoebk-website/static/js/2.2c16c6ac.chunk.js.map",
+    "index.html": "/xiaoebk-website/index.html",
+    "precache-manifest.63cfdf516830a58a67f00753625d729b.js": "/xiaoebk-website/precache-manifest.63cfdf516830a58a67f00753625d729b.js",
+    "service-worker.js": "/xiaoebk-website/service-worker.js",
+    "static/css/main.ee79fb0a.chunk.css.map": "/xiaoebk-website/static/css/main.ee79fb0a.chunk.css.map",
+    "static/js/2.2c16c6ac.chunk.js.LICENSE.txt": "/xiaoebk-website/static/js/2.2c16c6ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b44a4b68.js",
+    "static/js/2.2c16c6ac.chunk.js",
+    "static/css/main.ee79fb0a.chunk.css",
+    "static/js/main.3c33c2b6.chunk.js"
+  ]
+}
